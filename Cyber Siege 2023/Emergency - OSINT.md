@@ -8,7 +8,8 @@ User is provided with an email:
 
 To get ahead with the question, we use [Epieos.com](http://Epieos.com) 
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled.png)
+![image](https://user-images.githubusercontent.com/95119705/221402085-3f4e4ee3-6691-4038-a81d-c6f51e47a702.png)
+
 
 We see that we can use this tool to perform OSINT on any email address. We search for our given email.
 
