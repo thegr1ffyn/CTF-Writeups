@@ -38,11 +38,13 @@ So we have a hint:
 
 Notice how we are given a string, we search it out on Google.
 
-![image](https://user-images.githubusercontent.com/95119705/221402205-a84cc8b9-0848-4731-b2bd-dca349ee4111.png)
+![image](https://user-images.githubusercontent.com/95119705/221402210-a945d1eb-1b08-4cd2-83e6-81b292bef948.png)
+
 
 Seems like the given string relates to some kind of flying as given in our hint as well. The first result is a tweet about an aircraft. Lets check:
 
-![image](https://user-images.githubusercontent.com/95119705/221402210-a945d1eb-1b08-4cd2-83e6-81b292bef948.png)
+![image](https://user-images.githubusercontent.com/95119705/221402205-a84cc8b9-0848-4731-b2bd-dca349ee4111.png)
+
 
 So this seems like the flight number of an aircraft that is being reported by a Twitter Investigator. We scroll down a bit to find another hint.
 
@@ -70,18 +72,22 @@ Sometimes smart work is more efficient than hard work. If you went through the c
 
 Lets open it up:
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%209.png)
+![image](https://user-images.githubusercontent.com/95119705/221402378-79b55d79-8966-4996-916b-f4b33102a5ff.png)
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%2010.png)
+![image](https://user-images.githubusercontent.com/95119705/221402385-2533d9e3-ae9d-4203-9c87-93376906cd93.png)
 
 If we click on copy to my calender, it redirects to another page where we can see all the details of the memo. Notice how there is a file given in the attachments:
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%2011.png)
+![image](https://user-images.githubusercontent.com/95119705/221402390-5f43fb6a-4f95-4103-93e2-917f81c1aa98.png)
 
 Lets open up the file:
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%2012.png)
+![image](https://user-images.githubusercontent.com/95119705/221402393-a6d9eb68-2e17-47f1-b400-13105aefd8fc.png)
 
 ITS THE WHOLE ANSWER AHHAHAHAHA 🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣🤣
 
-The whole question endpoint is given here. Its always better to look for more ways to find a clue. Hope it was fun to solve.
+The whole question endpoint is given here. Its always better to look for more ways to find a clue. 
+
+Hope it was fun to solve although no one was able to solve this :D
+
+Challenge by TheGr1ffyn
