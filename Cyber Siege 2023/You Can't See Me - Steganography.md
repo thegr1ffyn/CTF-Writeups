@@ -8,7 +8,8 @@
 
 The user is given a file named you_cant_see_me.jpg 
 
-![You Cant See Me.jpg](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/You_Cant_See_Me.jpg)
+![You Cant See Me](https://user-images.githubusercontent.com/95119705/221403644-9e319a02-5fb1-427c-a8a5-6dd82606c90f.jpg)
+
 
 Well, the image is of **Louis Braille**. Pretty simple to know if you know how to Reverse Search on Google Images.
 
@@ -113,3 +114,5 @@ To find the first part, simply decode using Base64 and you will find `AOF`
 So the final flag becomes:
 
 `AOF{blind_man_can_judge_no_colors}`
+
+### Designed by TheGr1ffyn
