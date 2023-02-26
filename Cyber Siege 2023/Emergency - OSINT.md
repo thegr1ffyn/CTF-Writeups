@@ -13,11 +13,12 @@ To get ahead with the question, we use [Epieos.com](http://Epieos.com)
 
 We see that we can use this tool to perform OSINT on any email address. We search for our given email.
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%201.png)
+![image](https://user-images.githubusercontent.com/95119705/221402116-ec64239d-c0e0-49f4-80f5-0038a2bedabe.png)
+
 
 We got this as a result:
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%202.png)
+![image](https://user-images.githubusercontent.com/95119705/221402129-89d7f6f7-3a82-472e-838b-5f7cd85968b5.png)
 
 We are given a hint which tells us about how time management is very important to our user. Did you get it????? 
 
@@ -27,7 +28,7 @@ We see that we are given a Google Calender link that we can look into to find so
 
 Ahhhh, here it is:
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%203.png)
+![image](https://user-images.githubusercontent.com/95119705/221402140-c9efa949-d96f-42a9-a64a-8031b0454b8b.png)
 
 So we have a hint:
 
@@ -37,7 +38,7 @@ So we have a hint:
 
 Notice how we are given a string, we search it out on Google.
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%204.png)
+![image](https://user-images.githubusercontent.com/95119705/221402162-e80d11d8-974e-4fc4-8135-846a4446bbc1.png)
 
 Seems like the given string relates to some kind of flying as given in our hint as well. The first result is a tweet about an aircraft. Lets check:
 
