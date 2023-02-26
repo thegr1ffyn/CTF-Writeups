@@ -13,19 +13,19 @@ The user is given a file named you_cant_see_me.jpg
 
 Well, the image is of **Louis Braille**. Pretty simple to know if you know how to Reverse Search on Google Images.
 
-![Untitled](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/Untitled.png)
+![image](https://user-images.githubusercontent.com/95119705/221403780-7dcfa9dc-f9b0-4004-b26d-0cc0c67188f0.png)
 
 Also, we check the strings of the image to see if we find anything useful. You can use HxD on Windows or strings on Linux. We are greeted with a ton of garbage values. So finding something useful is probably like a needle in haystack. 
 
-![Untitled](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/Untitled%201.png)
+![image](https://user-images.githubusercontent.com/95119705/221403788-e454643c-c4d9-486c-96d8-3111afa241b9.png)
 
 Notice that at the end of the file, some random 1’s and 0’s are given. Seems like something useful. Moreover, moving slightly above the last lines, we find ourselves a note. It seems like the given note is about how to decrypt the flag.
 
 `QU9G{110000111000010100101110100110_101100100000101110_100100100000101110_010110101001100110110110100010_101110101010_100100101010111000101010111010011100}`
 
-![Untitled](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/Untitled%202.png)
+![image](https://user-images.githubusercontent.com/95119705/221403824-5282e7f0-834e-4319-bc48-042511d13161.png)
 
-![Untitled](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/Untitled%203.png)
+![image](https://user-images.githubusercontent.com/95119705/221403829-55796d06-0916-4058-88ff-e98cb7495d95.png)
 
 Notice how at the very start we got to know that the given image was of Louis Braille who designed the Braille language. 
 
@@ -33,7 +33,7 @@ Braille is a system of raised dots that can be felt with the fingertips and used
 
 This is how Braille works
 
-![Untitled](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/Untitled%204.png)
+![image](https://user-images.githubusercontent.com/95119705/221403841-fcf1da71-5809-4bc2-9228-ddc0768236dd.png)
 
 The note tells us to move down the left column first. We can simply decrypt the flag by matching each bold dot to 1 and the other to 0 to find the flag. 
 
@@ -101,7 +101,7 @@ int main()
 
 Or use [dcode.org](http://dcode.org) to find Braille Decoder:
 
-![Untitled](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/Untitled%205.png)
+![image](https://user-images.githubusercontent.com/95119705/221403850-44a48d87-b6ce-40a6-a7c0-f45d89cb9f49.png)
 
 So we have our first part:
 
@@ -109,7 +109,7 @@ So we have our first part:
 
 To find the first part, simply decode using Base64 and you will find `AOF`
 
-![Untitled](You%20Can't%20See%20Me%20Steganography%20Hamza%20Haroon%20b6a48fabe7fd41929c16d8004cc1bf05/Untitled%206.png)
+![image](https://user-images.githubusercontent.com/95119705/221403859-2b795aef-0070-4e22-bd1e-0ddc20350455.png)
 
 So the final flag becomes:
 
