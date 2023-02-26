@@ -36,3 +36,5 @@ This is our second half.
 So the flag becomes:
 
 `AOF{7:49:46AM_ONSLOWBAY}`
+
+`Designed by Hamza Haroon`
