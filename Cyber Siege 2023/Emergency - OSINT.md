@@ -1,12 +1,20 @@
 # Emergency | OSINT | Hamza Haroon
 
-## Hint: Time management is the key.
+## Hint: In case of fire, exit the building rather than tweet about it.
 
-User is provided with an email:
+This challenge was given in the Medium category of Cyber Siege CTF.
 
-`test.thegr1ffyn@gmail.com`
+The user is provided with an image:
 
-To get ahead with the question, we use [Epieos.com](http://Epieos.com) 
+![emergency (1)](https://user-images.githubusercontent.com/95119705/221402531-bb6265ab-99ef-4eba-9e3c-bafb1dc3daf4.png)
+
+Here we are given an email:
+
+`
+test.thegr1ffyn@gmail.com
+`
+
+To get ahead with the question, we use [epieos.com](http://epieos.com) 
 
 ![image](https://user-images.githubusercontent.com/95119705/221402085-3f4e4ee3-6691-4038-a81d-c6f51e47a702.png)
 
