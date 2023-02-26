@@ -38,15 +38,15 @@ So we have a hint:
 
 Notice how we are given a string, we search it out on Google.
 
-![image](https://user-images.githubusercontent.com/95119705/221402162-e80d11d8-974e-4fc4-8135-846a4446bbc1.png)
+![image](https://user-images.githubusercontent.com/95119705/221402205-a84cc8b9-0848-4731-b2bd-dca349ee4111.png)
 
 Seems like the given string relates to some kind of flying as given in our hint as well. The first result is a tweet about an aircraft. Lets check:
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%205.png)
+![image](https://user-images.githubusercontent.com/95119705/221402210-a945d1eb-1b08-4cd2-83e6-81b292bef948.png)
 
 So this seems like the flight number of an aircraft that is being reported by a Twitter Investigator. We scroll down a bit to find another hint.
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%206.png)
+![image](https://user-images.githubusercontent.com/95119705/221402227-98f93add-662c-4ab8-ba8f-7ae91d655782.png)
 
 Seems like we are almost there, all we need to do now is to find the time of landing and the total time of the flight on 7 February 2022. 
 
@@ -54,11 +54,11 @@ Flightradar24.com is a good tool to find information:
 
 We enter the flight details:
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%207.png)
+![image](https://user-images.githubusercontent.com/95119705/221402258-17cb41e4-79ac-4dea-8118-5f2a92e067ba.png)
 
 We check this to find the exact flying details on the specific date.
 
-![Untitled](Emergency%20OSINT%20Hamza%20Haroon%2041577dbe5c1a49188af4cdd28f047045/Untitled%208.png)
+![image](https://user-images.githubusercontent.com/95119705/221402248-64df8a9e-e08e-4be8-80eb-95bde34cb136.png)
 
 So here we have our flag:
 
