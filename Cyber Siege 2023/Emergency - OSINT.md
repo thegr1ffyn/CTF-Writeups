@@ -98,4 +98,4 @@ The whole question endpoint is given here. Its always better to look for more wa
 
 Hope it was fun to solve although no one was able to solve this :D
 
-Challenge by TheGr1ffyn
+### Designed by TheGr1ffyn
